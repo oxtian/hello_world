@@ -1,2 +1,2 @@
 # hello_world
-Git Workshop
+I'm attending Techladies Git Workshop!
